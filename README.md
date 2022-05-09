@@ -7,6 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khl2139&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - :tulip: Check out my most recent project here:
+- https://2hyunie.github.io/qmss-dv-group-g/part2.html
 - https://github.com/QMSS-G5063-2022/Group_G_Covid_Housing_Prices/blob/main/Group_G_video.mp4
 
 
