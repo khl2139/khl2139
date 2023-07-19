@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👋
 
 🔭 This is my portfolio of projects from MA. Quantitative Methods in Social Sciences at Columbia!
 🌱 NLP, Data Visualisation (ggplot, ggmap, tmap, leaflet), and advanced machine learning (CNN)
 
 
-:tulip: Check out my most recent project here:
+Check out my most recent project here:
 
 High School Search Tool
 - https://thepublicgood.shinyapps.io/HS_search/
